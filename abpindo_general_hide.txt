@@ -74,6 +74,8 @@
 ##a[href^="http://www.sogopoker.net/ref.php"]
 ##a[href^="http://www.togellounge.net"]
 ##a[href^="http://xtgem.com/click"]
+##a[href^="https://www.vimaxasli.id/"]
+##img[alt="Vimax"]
 ##img[alt="Advertisement"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
